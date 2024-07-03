@@ -1,0 +1,27 @@
+cmd> set 29 0
+
+cmd> set 2310 1
+
+cmd> set -4721 2
+
+cmd> get 29
+0
+
+cmd> get 2310
+1
+
+cmd> get -4721
+2
+
+cmd> remove 2310
+
+cmd> get 29
+0
+
+cmd> get 2310
+Undefined
+
+cmd> get -4721
+2
+
+cmd> quit

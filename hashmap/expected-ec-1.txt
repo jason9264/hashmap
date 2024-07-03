@@ -1,0 +1,11 @@
+cmd> set "key-\"a\"" 5
+
+cmd> set 10 "value-\"b"
+
+cmd> get "key-\"a\""
+5
+
+cmd> get 10
+"value-"b"
+
+cmd> quit

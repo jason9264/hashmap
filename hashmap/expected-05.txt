@@ -1,0 +1,27 @@
+cmd> set 100 5
+
+cmd> set 200 10
+
+cmd> set 300 15
+
+cmd> get 100
+5
+
+cmd> get 200
+10
+
+cmd> get 300
+15
+
+cmd> set 200 11
+
+cmd> get 100
+5
+
+cmd> get 200
+11
+
+cmd> get 300
+15
+
+cmd> quit

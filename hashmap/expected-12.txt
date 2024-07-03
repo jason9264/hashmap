@@ -1,0 +1,22 @@
+cmd> set 10 100
+
+cmd> set 100 1000
+
+cmd> set
+Invalid command
+
+cmd> size
+2
+
+cmd> set 100 "abc"
+
+cmd> bad command
+Invalid command
+
+cmd> get 10
+100
+
+cmd> get 100
+"abc"
+
+cmd> quit

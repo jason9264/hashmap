@@ -1,0 +1,10 @@
+set "x" "y"
+get "x"
+get "x" "y"
+size
+set "x" 75
+size
+remove "x"
+size
+remove "x" "y"
+quit

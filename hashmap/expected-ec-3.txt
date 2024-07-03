@@ -1,0 +1,7 @@
+cmd> set 10 "line\nbreak"
+
+cmd> get 10
+"line
+break"
+
+cmd> quit

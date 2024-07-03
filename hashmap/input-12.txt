@@ -1,0 +1,9 @@
+set 10 100
+set 100 1000
+set
+size
+set 100 "abc"
+bad command
+get 10
+get 100
+quit

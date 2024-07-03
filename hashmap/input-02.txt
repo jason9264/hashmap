@@ -1,0 +1,3 @@
+set 10 99
+size
+quit

@@ -1,0 +1,21 @@
+cmd> set "Breakfast" 730
+
+cmd> set "Lunch" 1230
+
+cmd> set "Dinner" 1900
+
+cmd> set "Snack" 1600
+
+cmd> get "Breakfast"
+730
+
+cmd> get "Lunch"
+1230
+
+cmd> get "Snack"
+1600
+
+cmd> get "Dinner"
+1900
+
+cmd> quit

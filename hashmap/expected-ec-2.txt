@@ -1,0 +1,6 @@
+cmd> set 10 "value\t3"
+
+cmd> get 10
+"value	3"
+
+cmd> quit

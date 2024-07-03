@@ -1,0 +1,23 @@
+set "Breakfast" 730
+set "Lunch" 1230
+set "Dinner" 1900
+set "Snack" 1600
+get "Breakfast"
+get "Lunch"
+get "Snack"
+get "Tea"
+get "Dinner"
+set "Breakfast" 715
+set "Dinner" 1930
+get "Breakfast"
+get "Lunch"
+get "Snack"
+get "Dinner"
+remove "Snack"
+set "Tea" 1600
+get "Breakfast"
+get "Lunch"
+get "Snack"
+get "Tea"
+get "Dinner"
+quit

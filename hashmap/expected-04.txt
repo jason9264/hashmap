@@ -1,0 +1,14 @@
+cmd> set 30 0
+
+cmd> set 40 -1
+
+cmd> get 40
+-1
+
+cmd> get 30
+0
+
+cmd> get 35
+Undefined
+
+cmd> 

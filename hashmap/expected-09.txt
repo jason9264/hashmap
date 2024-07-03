@@ -1,0 +1,42 @@
+cmd> set 690 "Red"
+
+cmd> set 600 "Orange"
+
+cmd> set 570 "Yellow"
+
+cmd> set 540 "Gren"
+
+cmd> set 510 "Cyan"
+
+cmd> set 470 "Blue"
+
+cmd> set 310 "Violet"
+
+cmd> get 600
+"Orange"
+
+cmd> get 540
+"Gren"
+
+cmd> set 540 "Green"
+
+cmd> get 540
+"Green"
+
+cmd> get 310
+"Violet"
+
+cmd> remove 310
+
+cmd> set 410 "Violet"
+
+cmd> size
+7
+
+cmd> get 310
+Undefined
+
+cmd> get 410
+"Violet"
+
+cmd> quit

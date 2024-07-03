@@ -1,0 +1,18 @@
+set 690 "Red"
+set 600 "Orange"
+set 570 "Yellow"
+set 540 "Gren"
+set 510 "Cyan"
+set 470 "Blue"
+set 310 "Violet"
+get 600
+get 540
+set 540 "Green"
+get 540
+get 310
+remove 310
+set 410 "Violet"
+size
+get 310
+get 410
+quit

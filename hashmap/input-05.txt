@@ -1,0 +1,11 @@
+set 100 5
+set 200 10
+set 300 15
+get 100
+get 200
+get 300
+set 200 11
+get 100
+get 200
+get 300
+quit

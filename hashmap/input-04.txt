@@ -1,0 +1,5 @@
+set 30 0
+set 40 -1
+get 40
+get 30
+get 35

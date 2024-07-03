@@ -1,0 +1,59 @@
+cmd> set "Breakfast" 730
+
+cmd> set "Lunch" 1230
+
+cmd> set "Dinner" 1900
+
+cmd> set "Snack" 1600
+
+cmd> get "Breakfast"
+730
+
+cmd> get "Lunch"
+1230
+
+cmd> get "Snack"
+1600
+
+cmd> get "Tea"
+Undefined
+
+cmd> get "Dinner"
+1900
+
+cmd> set "Breakfast" 715
+
+cmd> set "Dinner" 1930
+
+cmd> get "Breakfast"
+715
+
+cmd> get "Lunch"
+1230
+
+cmd> get "Snack"
+1600
+
+cmd> get "Dinner"
+1930
+
+cmd> remove "Snack"
+
+cmd> set "Tea" 1600
+
+cmd> get "Breakfast"
+715
+
+cmd> get "Lunch"
+1230
+
+cmd> get "Snack"
+Undefined
+
+cmd> get "Tea"
+1600
+
+cmd> get "Dinner"
+1930
+
+cmd> quit

@@ -1,0 +1,9 @@
+cmd> set 4 20
+
+cmd> get 4
+20
+
+cmd> get 5
+Undefined
+
+cmd> quit

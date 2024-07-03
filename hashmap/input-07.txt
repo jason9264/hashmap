@@ -1,0 +1,9 @@
+set "Breakfast" 730
+set "Lunch" 1230
+set "Dinner" 1900
+set "Snack" 1600
+get "Breakfast"
+get "Lunch"
+get "Snack"
+get "Dinner"
+quit

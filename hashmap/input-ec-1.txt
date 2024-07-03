@@ -1,0 +1,5 @@
+set "key-\"a\"" 5
+set 10 "value-\"b"
+get "key-\"a\""
+get 10
+quit

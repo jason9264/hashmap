@@ -1,0 +1,25 @@
+cmd> set "x" "y"
+
+cmd> get "x"
+"y"
+
+cmd> get "x" "y"
+Invalid command
+
+cmd> size
+1
+
+cmd> set "x" 75
+
+cmd> size
+1
+
+cmd> remove "x"
+
+cmd> size
+0
+
+cmd> remove "x" "y"
+Invalid command
+
+cmd> quit

@@ -1,0 +1,11 @@
+set 29 0
+set 2310 1
+set -4721 2
+get 29
+get 2310
+get -4721
+remove 2310
+get 29
+get 2310
+get -4721
+quit

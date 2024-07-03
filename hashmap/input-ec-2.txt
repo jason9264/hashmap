@@ -1,0 +1,3 @@
+set 10 "value\t3"
+get 10
+quit

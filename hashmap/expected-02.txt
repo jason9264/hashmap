@@ -1,0 +1,6 @@
+cmd> set 10 99
+
+cmd> size
+1
+
+cmd> quit
